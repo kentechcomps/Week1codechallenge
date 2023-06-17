@@ -3,7 +3,7 @@ let Marks = prompt("Enter marks") ;
 //initialised the grade function
 let Grade = 'A';
 
- //This is the block of God that has the control flow
+ //This is the block of code that has the control flow statements
 if(Marks>79){
     Grade;
 }else if (Marks>=60 && Marks<=79){
